@@ -6,7 +6,7 @@ This system eliminates the drawbacks of manual irrigation by continuously monito
 This Smart Irrigation System is ideal for applications such as home gardens, greenhouses, nurseries, and small-scale farms, where automation can significantly improve efficiency while keeping costs low. Additionally, the integration of solar-powered components makes the system energy-efficient and environmentally friendly.
 
 ## Project Report
-The project report can be viewed [here](https://github.com/Maddddy/Plant-irrigation-System/blob/4362abd7ee223b942f4b66b0e2fdf56876795cf3/Plant%20irrigation%20system%20report.pdf).
+The project report can be viewed [here](https://github.com/Maddddy/Plant-irrigation-System/blob/master/Plant%20irrigation%20system%20report.pdf).
 
 ## Working model 
-![model](https://github.com/Maddddy/Plant-irrigation-System/blob/08460045f1090f69b5a5b2303697c12f5e720c82/iot%20model.jpg)
+![model](https://github.com/Maddddy/Plant-irrigation-System/blob/master/iot%20model.jpg)
